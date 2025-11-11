@@ -20,9 +20,12 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, end users)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Technical Writer ensures documentation is accessible to all stakeholders
+- UX Designer shares user research findings and design decisions with relevant stakeholders
+- Business Analyst communicates requirement changes and impacts
 
 ## Communication Templates
 Weekly Status Template:

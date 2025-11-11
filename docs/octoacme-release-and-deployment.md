@@ -11,9 +11,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
-- Release notes drafted
+- Release notes drafted by Technical Writer
+- User documentation updated (if applicable)
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Support team briefed on new features and documentation
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -21,6 +23,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to staging and run smoke tests
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
+- [ ] Technical Writer publishes release notes and updated documentation
 - [ ] Announce release to stakeholders and support
 
 ## Rollback & Incident Playbook
