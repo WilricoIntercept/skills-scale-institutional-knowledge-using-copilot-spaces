@@ -9,12 +9,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+1. Kickoff meeting with stakeholders and delivery team (including UX Designer, Business Analyst, Technical Writer)
+2. Business Analyst facilitates requirements gathering and creates functional specifications
+3. UX Designer shares initial wireframes and user research insights
+4. Create prioritized backlog with acceptance criteria
+5. Estimate scope (T-shirt sizing or story points)
+6. Define Definition of Done (DoD), including documentation and usability criteria
+7. Identify dependencies and integration points
+8. Create release plan and milestone map
+9. Technical Writer outlines documentation requirements and timeline
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +39,37 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all relevant roles
+- [ ] Business Analyst completes requirements documentation
+- [ ] UX Designer provides initial wireframes/prototypes
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (including QA and documentation requirements)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Technical documentation plan created
+
+## Role Handoff Checklist
+Use this checklist to ensure smooth handoffs between roles during planning:
+
+### Business Analyst → Product Manager / Developers
+- [ ] Requirements documented with clear acceptance criteria
+- [ ] Business process diagrams and workflows provided
+- [ ] Functional specifications reviewed and approved
+- [ ] Edge cases and constraints identified
+
+### UX Designer → Developers
+- [ ] Design specifications and assets provided
+- [ ] User flows and interaction patterns documented
+- [ ] Accessibility requirements specified
+- [ ] Design system components identified
+- [ ] Technical feasibility validated
+
+### Product Manager → Technical Writer
+- [ ] Feature scope and user benefits communicated
+- [ ] Key terminology and messaging aligned
+- [ ] Documentation deliverables and timeline agreed
+
+### Scrum Master → Team
+- [ ] Sprint ceremonies scheduled
+- [ ] Team capacity and availability confirmed
+- [ ] Working agreements reviewed or established
